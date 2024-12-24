@@ -22,4 +22,4 @@ This skills analysis helps data job seekers realize the skills needed for a dete
 
   
 ---
-NOTE: The dataset I used for this project belongs to Luke's Barousse free Excel course. The original data contains approximately 32000 rows of published jobs from 2022 to the middle of 2024 in different platforms, countries, job titles, and various other variables.
+NOTE: The dataset I used for this project belongs to Luke's Barousse free Excel course. The original data contains approximately 32000 rows of published jobs from 2023 in different platforms, countries, job titles, and various other variables.
